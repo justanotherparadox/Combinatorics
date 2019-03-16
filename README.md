@@ -29,9 +29,10 @@ Level 3:
 
 Concrete Mathematics by Donald Knuth (Don't touch this book...)
 
-Level 4: (Out of domain and range)
+Level 4: 
 
 Enumerative Combinatorics, Volume 1 by Richard P. Stanley
+
 Enumerative Combinatorics, Volume 2 by Richard P. Stanley
 
 
