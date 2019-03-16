@@ -21,6 +21,22 @@ Discrete Mathematics For Computer Scientists And Mathematicians by Joe L Mott, A
 
 Discrete and Combinatorial Mathematics by Ralph Grimaldi
 
+Level 2:
+
+A Path to Combinatorics for Undergraduates: Counting Strategies by Titu Andreescu (BEWARE)
+
+Level 3:
+
+Concrete Mathematics by Donald Knuth (Don't touch this book...)
+
+Level 4: (Out of domain and range)
+
+Enumerative Combinatorics, Volume 1 by Richard P. Stanley
+Enumerative Combinatorics, Volume 2 by Richard P. Stanley
+
+
+
+
 
 
 
