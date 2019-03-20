@@ -82,7 +82,7 @@ This book is one of a kind and contains an extensive collection of identities on
 
 7. The book on set theory that I have uploaded is not for a beginner and a lot must be learnt before reading the text. I haven't read it    myself and do not feel that I have achieved that level yet.
 
-8.
+8. Book by Richard Brualdi and Applied combinatorics (TBC....)
   
    
 
