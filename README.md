@@ -25,6 +25,8 @@ Level 2:
 
 A Path to Combinatorics for Undergraduates: Counting Strategies by Titu Andreescu (BEWARE)
 
+Advanced Combinatorics by Louis Comtet
+
 Level 3:
 
 Concrete Mathematics by Donald Knuth (Don't touch this book...)
@@ -41,6 +43,7 @@ Level 5:
 
 Additive Combinatorics by Terence Tao
 
+{
 
 Guide to above available materials:
 
