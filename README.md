@@ -77,7 +77,12 @@ This book is one of a kind and contains an extensive collection of identities on
    
    He has also written a book named Encyclopaedia of Mathematics which sits in my repo "Mathematical Dictionaries, tables and              Encyclopaedia" ------>  https://github.com/justanotherparadox/Mathematical-Dictionaries-tables-and-Encyclopaedia
    
-6. 
+6. VVI book summation contains theory of indefinite discrete summations and difference equations as well. We will be dealing with them 
+   when I upload my notes in Sequences and Series folder.
+
+7. The book on set theory that I have uploaded is not for a beginner and a lot must be learnt before reading the text. I haven't read it    myself and do not feel that I have achieved that level yet.
+
+8.
   
    
 
