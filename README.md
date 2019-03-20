@@ -65,7 +65,7 @@ This book is one of a kind and contains an extensive collection of identities on
   
 3. Texts on Iversion notation
 
-4.
+4. Summation of series by L. B. W. Jolley is an extensive collection of series from different branches of mathematics.
 
 
 
