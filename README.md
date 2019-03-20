@@ -35,6 +35,15 @@ Enumerative Combinatorics, Volume 1 by Richard P. Stanley
 
 Enumerative Combinatorics, Volume 2 by Richard P. Stanley
 
+Generating Functionology
+
+Level 5:
+
+Additive Combinatorics by Terence Tao
+
+
+
+
 {
 
 Arthur Benjamin:
