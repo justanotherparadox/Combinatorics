@@ -65,10 +65,10 @@ This book is one of a kind and contains an extensive collection of identities on
   
 3. Texts on Iversion notation
 
-4. Summation of series by L. B. W. Jolley is an extensive collection of series from different branches of mathematics. It is worth 
+4. Summation of series by L. B. W. Jolley is an extensive collection of series from algebra, trigonometry and calculus. It is worth 
    looking at and we will be deriving them as we progress with our notes.
    
-5. Derangements-essay and partitions_general-essay are essays form Prof. James Tanton. He deals with high school maths 
+5. Derangements-essay and partitions_general-essay are essays from Prof. James Tanton. He deals with high school maths 
    and expresses sophisticated concepts in a manner understandable to non-math audience.
    
    Link ----> http://www.jamestanton.com/?page_id=20
