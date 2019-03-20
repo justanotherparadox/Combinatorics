@@ -63,7 +63,9 @@ This book is one of a kind and contains an extensive collection of identities on
 2. The folders on P&C and Binomial Theorem will consist of my handwritten notes based on courses which I took, links to online courses,
    several problem sets and references to "What to read NEXT".
   
-3. 
+3. Texts on Iversion notation
+
+4.
 
 
 
